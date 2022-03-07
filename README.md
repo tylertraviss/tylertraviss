@@ -1,4 +1,5 @@
-### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=tylertraviss)
+### Thanks for checking out my page!
 - 🔭 I’m currently working on: Design Patterns, Machine Learning, Data Structures
 - 💬 Ask me about: my passion for soccer, and being involved.
 - 📫 How to reach me: ttravis@unb.ca
