@@ -1,8 +1,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=tylertraviss)
 ### Thanks for checking out my page!
-- 🔭 I’m currently working on: Design Patterns, Machine Learning, Data Structures
-- 💬 Ask me about: my passion for soccer, and being involved.
-- 📫 How to reach me: ttravis@unb.ca
+- 🔭 I'm currently: refactoring cutting-edge cancer detection technology into a faster framework.
+- 💬 Ask me about: my endeavours in university soccer, mountain climbing, or video editing.
+- 📫 How to reach me: tylertravisrhs@gmail.com
 <!--
 **tylertraviss/tylertraviss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
